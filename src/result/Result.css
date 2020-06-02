@@ -1,0 +1,11 @@
+.Result-Outer {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 100%;
+}
+
+.Result-Inner {
+    margin: 0 22px;
+}
