@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app).
 
+## Screenshots
+
+<p align="center">
+  <img height="400" src='docs/screenshot.jpg'/>
+</p>
 
 ## Available Scripts
 
